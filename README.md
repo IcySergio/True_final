@@ -21,11 +21,11 @@ Kinojecture is a thrilling guessing game where players compete to deduce each ot
 Just open the kinojecture.exe file for Windows and kinojecture.app for Mac OS X and start to play immediately.
 
 ## What have we used:
-IMDb Non-Commercial Datasets https://datasets.imdbws.com/
-Programming language: c++
-Qt6 (GUI, Core, Sql)
-CMake
-Doxygen
+- IMDb Non-Commercial Datasets https://datasets.imdbws.com/
+- Programming language: c++
+- Qt6 (GUI, Core, Sql)
+- CMake
+- Doxygen
 
 ## Credits
 Kinojecture was developed by ingenious [IcySergio](https://github.com/IcySergio), [alexamarki](https://github.com/alexamarki) and [vvv-hikka](https://github.com/vvv-hikka).
